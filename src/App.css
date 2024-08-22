@@ -1,0 +1,115 @@
+
+.home {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .home .btn {
+    background-color: #333;
+    color: white;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .home .btn:hover {
+    background-color: #555;
+  }
+  /*Registration.css */
+.registration {
+    padding: 2rem;
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .registration form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .registration input,
+  .registration textarea {
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+  }
+  
+  .registration button {
+    padding: 0.5rem;
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .registration button:hover {
+    background-color: #555;
+  }
+  /*Contact.css */
+.Contact {
+    padding: 2rem;
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .Contact form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .Contact input,
+  .Contact textarea {
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+  }
+  
+  .Contact button {
+    padding: 0.5rem;
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .Contact button:hover {
+    background-color: #555;
+  }
+  /*Footer.css */
+.footer {
+    background-color:  rgb(208, 207, 192);
+    color: rgb(14, 13, 13);
+    text-align: center;
+    padding: 1rem;
+    
+    width: 100%;
+    bottom: 0;
+  }
+  
+  /*About.css */
+.about {
+    padding: 2rem;
+    max-width: 800px;
+    margin: auto;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .about h2 {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  
+  .about p {
+    margin-bottom: 1rem;
+    line-height: 1.6;
+    font-size: 1.1rem;
+  }
+
+  /*Navbar.css*/
+  .navbar{
+    background-color: rgb(208, 207, 192);
+  }
+  
+  
+  
+  
